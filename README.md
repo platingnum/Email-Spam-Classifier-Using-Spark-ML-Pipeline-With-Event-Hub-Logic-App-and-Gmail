@@ -1,4 +1,4 @@
-# Email Spam Classifier Using Spark ML Pipeline With Event Hub, Logic App and Gmail
+# Email Spam Classifier Using Databricks Spark ML Pipeline With Event Hub, Logic App and Gmail
 
 ## Import required python libraries
 
